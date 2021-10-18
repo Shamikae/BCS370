@@ -2,8 +2,7 @@
 //BCS 370 Module 6 Unsorted Singly Linked List 
 
 #include <iostream>
-using std::cout;
-
+using namespace std;
 
 template <typename T>
 struct Node {
